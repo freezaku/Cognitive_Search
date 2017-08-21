@@ -34,6 +34,7 @@ search Facebook entities and corresponding Albums and Posts
  <br />
  Figure 2
 </p>
+
 * Click camera picture(Figuer 3) to take a picture or select from library to tranfer picture(Figuer 4) into text shown on search field by using Vicual Recognition in IBM Watson API. Users can choice through clicking among the possible recognition results shown below(Figure 5).
 <p align="center">
  <img src="https://github.com/freezaku/Cognitive_Search/blob/master/img_folder/figure_3.png" width="30%" height="30%" />
@@ -50,6 +51,11 @@ search Facebook entities and corresponding Albums and Posts
 </p>
 
 * Side bar is used to navigate back to home interface and favorites(Figure 6)
+<p align="center">
+ <img src="https://github.com/freezaku/Cognitive_Search/blob/master/img_folder/figure_6.png" width="30%" height="30%" />
+ <br />
+ Figure 6
+</p>
 
 #### Search results interface(Figure 7, Figure 8)
 <p align="center">
