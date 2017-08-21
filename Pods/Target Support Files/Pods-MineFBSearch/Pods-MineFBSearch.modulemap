@@ -1,0 +1,6 @@
+framework module Pods_MineFBSearch {
+  umbrella header "Pods-MineFBSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
